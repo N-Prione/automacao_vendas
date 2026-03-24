@@ -15,6 +15,7 @@ Automação de GUI: Controla mouse e teclado através do PyAutoGUI para realizar
 Fluxo Inteligente: Gerenciamento de tempo com time.sleep para garantir que o navegador acompanhe a velocidade do script.
 
 🛠️ Tecnologias Utilizadas
+
 Python 3.13.5
 
 Pandas: Manipulação e análise de dados.
